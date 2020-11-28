@@ -1,1 +1,1 @@
-<h1 align="center">Expected Employment Outcome by University Major</h1>
+<h1 align="center">Employment Outcomes by University Major</h1>
